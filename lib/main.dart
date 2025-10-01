@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/blocs/bloc/weather_bloc.dart';
-import 'package:flutter_application_1/screens/home_screen.dart';
+import 'blocs/weather_bloc/weather_bloc.dart';
+import 'screens/home_screen.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:geolocator/geolocator.dart';

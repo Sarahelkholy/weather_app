@@ -2,8 +2,8 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_application_1/blocs/bloc/weather_bloc.dart';
-import 'package:flutter_application_1/widgets/day_info.dart';
+import '../blocs/weather_bloc/weather_bloc.dart';
+import '../widgets/day_info.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:intl/intl.dart';
